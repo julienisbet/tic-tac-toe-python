@@ -66,7 +66,7 @@ while active:
     active = False
   elif not ' ' in game_board.values():
     print_board(game_board)
-    print("CATS GAME!")
+    print("SCRATCH GAME!")
     active = False
   else:
     current_player, next_player = next_player, current_player
