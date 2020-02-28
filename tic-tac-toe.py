@@ -16,7 +16,7 @@
 # Tic Tac Toe, by Al Sweigart al@inventwithpython.com
 # The classic board game.
 
-print('Welcome to Tic Tac Toe')
+print('Welcome to My Game of Tic Tac Toe')
 ## GAME SETUP
 SPACES = list('123456789')
 game_board = {}
